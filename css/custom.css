@@ -441,13 +441,15 @@ SIDEBAR + RIGHT COLUMN
 .small-navbar:after {
   clear: both;
 }
+
 .small-navbar-heading {
   float: right;
-  font-size: 16px;
+  font-size: 12px;
   text-transform: uppercase;
   letter-spacing: -0.02em;
   margin-top: 10px;
 }
+
 .small-navbar-heading a {
   color: #65645e;
   text-decoration: none;
