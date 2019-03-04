@@ -340,6 +340,8 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading {
   font-size: 35px;
+  font-size: 3.5vw;
+  font-size: 3.5vh;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -1969,6 +1971,7 @@ h1,
   font-size: 35px;
   font-weight: 400;
 }
+
 h2,
 .h2 {
   font-size: 38px;
