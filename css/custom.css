@@ -662,7 +662,7 @@ COPYRIGHT
 */
 .copyright {
   color: #999999;
-  font-size: 13px;
+  font-size: 11px;
 }
 .copyright p.credit {
   margin-bottom: 10px;
@@ -847,7 +847,8 @@ a:active {
   text-overflow: ellipsis;
 }
 .box-masonry h4 {
-  font-size: 16px;
+  font-family: Overpass', sans-serif;
+  font-size: 15px;
   line-height: 1.5;
   font-weight: 700;
   text-transform: uppercase;
