@@ -11,9 +11,9 @@ GENERAL
 =====================
 */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans')
+@import url('https://fonts.googleapis.com/css?family=Overpass');
 
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
 
 html,
 body {
@@ -339,7 +339,7 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-size: 18px;
+  font-size: 30px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -352,11 +352,11 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading a:hover {
   border-bottom: dotted 1px #379392;
-  color: #000;
+  color: #65645e;
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
+  color: #65645e;
   font-size: 14px;
 }
 .sidebar-menu {
@@ -368,7 +368,7 @@ SIDEBAR + RIGHT COLUMN
   margin-bottom: 5px;
 }
 .sidebar-menu li a {
-  color: #555555;
+  color: #65645e;
 }
 .sidebar-menu li:before {
   font-family: 'FontAwesome';
@@ -1305,7 +1305,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* navbar */
 .navbar {
-  font-family:  'Josefin Sans', sans-serif;
+  font-family:  "Roboto", Helvetica, Arial, sans-serif;
   min-height: 80px;
   margin-bottom: 0;
   border-top: none;
@@ -1596,7 +1596,7 @@ body {
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
-  background-color: #e7f7f3;
+  background-color: #eaf9f5;
 }
 a {
   color: #379392;
@@ -1964,7 +1964,9 @@ h6,
 }
 h1,
 .h1 {
+  font-family: 'Overpass', sans-serif;
   font-size: 48px;
+  font-weight: 200;
 }
 h2,
 .h2 {
