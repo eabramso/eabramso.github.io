@@ -138,6 +138,15 @@
     </item>
     
     <item>
+      <title>Analysis of Rooftop Solar Generation</title>
+      <link>/portfolio/work15/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/work15/</guid>
+      <description>&lt;p&gt;I analyzed a year&amp;rsquo;s worth of minute-by-minute data to assess the seasonal reliability of rooftop solar, using EV charging as an end-use test case.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
